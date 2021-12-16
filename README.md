@@ -132,6 +132,7 @@ The three most popular libraries for web-scraping are: Beautiful soup vs Scrapy 
 - Cons: limited data size and hard to use proxies
 
 First I tried to learn Scrapy but due to short time and complexity, I finally used mainly Beautiful Soup. 
+![christies_spider](https://github.com/GloriaiXIII/christies_final_project/blob/main/Appendix/scrapy_tutorial/christies%20spider.png)
 
 ## TABLEAU
 Here you can find the tableau workbook and the tableau public [url](https://public.tableau.com/views/artauctionsanalysis/Avgtotalsalebylocation?:language=en-US&:display_count=n&:origin=viz_share_link).
@@ -142,6 +143,7 @@ Here you can find the tableau workbook and the tableau public [url](https://publ
 ![auction_events_type.png](https://github.com/GloriaiXIII/christies_final_project/blob/main/3.Tableau/auction_events_type.png)
 ![prices_info_by_location.png](https://github.com/GloriaiXIII/christies_final_project/blob/main/3.Tableau/prices_info_by_location.png)
 ![zoom_in.png](https://github.com/GloriaiXIII/christies_final_project/blob/main/3.Tableau/zoom_in.png)
+![obs slides second must underrated.png](https://github.com/GloriaiXIII/christies_final_project/blob/main/IMG/obs%20slides%20second%20must%20underrated.png)
 
 ## SLIDES
 In the following link you can find the [slides](https://slides.com/gloriaixiii/fp_elevator_pitch/fullscreen)
