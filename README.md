@@ -9,10 +9,10 @@ Data Analytics final project repository
 - Slides
 
 ## REPOSITORY INDEX
-- Dataframes
-- Python notebooks
-- Tableau
-- Appendix 
+- [Dataframes](https://github.com/GloriaiXIII/christies_final_project/tree/main/0.Extracted_data)
+- [Python notebooks](https://github.com/GloriaiXIII/christies_final_project/tree/main/1.Python_notebook)
+- [Tableau](https://github.com/GloriaiXIII/christies_final_project/tree/main/3.Tableau)
+- [Appendix](https://github.com/GloriaiXIII/christies_final_project/tree/main/Appendix)
 
 ## INTRODUCTION
 Art auction prices cause controversy in society because they are perceived as erratic. It is believed that art prices are completely unpredictable because of their nature but are they really unpredictable at all? or is pricing art like pricing other market items?
@@ -135,6 +135,13 @@ First I tried to learn Scrapy but due to short time and complexity, I finally us
 
 ## TABLEAU
 Here you can find the tableau workbook and the tableau public [url](https://public.tableau.com/views/artauctionsanalysis/Avgtotalsalebylocation?:language=en-US&:display_count=n&:origin=viz_share_link).
+
+![avgtotalsalebyloc.png](https://github.com/GloriaiXIII/christies_final_project/blob/main/3.Tableau/avgtotalsalebyloc.png)
+![currencies.png](https://github.com/GloriaiXIII/christies_final_project/blob/main/3.Tableau/currencies.png)
+![location_total_sales_and_est.png](https://github.com/GloriaiXIII/christies_final_project/blob/main/3.Tableau/location_total_sales_and_est.png)
+![auction_events_type.png](https://github.com/GloriaiXIII/christies_final_project/blob/main/3.Tableau/auction_events_type.png)
+![prices_info_by_location.png](https://github.com/GloriaiXIII/christies_final_project/blob/main/3.Tableau/prices_info_by_location.png)
+![zoom_in.png](https://github.com/GloriaiXIII/christies_final_project/blob/main/3.Tableau/zoom_in.png)
 
 ## SLIDES
 In the following link you can find the [slides](https://slides.com/gloriaixiii/fp_elevator_pitch/fullscreen)
