@@ -36,6 +36,8 @@ Christie’s URL follows the HTTP method GET. Get method is one of the most comm
 
 On Christie’s website we can consult past auction results and select/filter the content by the following filters: month, year, events (online, live), category and location. The results are from january 1998 until the present.
 
+![christieswebstruct](https://github.com/GloriaiXIII/christies_final_project/blob/main/IMG/christies_web_structure.png)
+
 For this project we want to iterate over months and years in order to scrape and store all the past results. 
 https://www.christies.com/en/results?language=en&month=1&year=1998 
 
@@ -135,7 +137,7 @@ First I tried to learn Scrapy but due to short time and complexity, I finally us
 ![christies_spider](https://github.com/GloriaiXIII/christies_final_project/blob/main/Appendix/scrapy_tutorial/christies%20spider.png)
 
 ## TABLEAU
-Here you can find the tableau workbook and the tableau public [url](https://public.tableau.com/views/artauctionsanalysis/Avgtotalsalebylocation?:language=en-US&:display_count=n&:origin=viz_share_link).
+Here you can find the tableau [workbook](https://github.com/GloriaiXIII/christies_final_project/blob/main/3.Tableau/art_auctions_analysis.twbx) and the tableau public [url](https://public.tableau.com/views/artauctionsanalysis/Avgtotalsalebylocation?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ![avgtotalsalebyloc.png](https://github.com/GloriaiXIII/christies_final_project/blob/main/3.Tableau/avgtotalsalebyloc.png)
 ![currencies.png](https://github.com/GloriaiXIII/christies_final_project/blob/main/3.Tableau/currencies.png)
