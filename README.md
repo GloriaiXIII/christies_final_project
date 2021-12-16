@@ -134,10 +134,10 @@ The three most popular libraries for web-scraping are: Beautiful soup vs Scrapy 
 First I tried to learn Scrapy but due to short time and complexity, I finally used mainly Beautiful Soup. 
 
 ## TABLEAU
-Here you can find the tableau workbook and the tableau public [url]('https://public.tableau.com/views/artauctionsanalysis/Avgtotalsalebylocation?:language=en-US&:display_count=n&:origin=viz_share_link').
+Here you can find the tableau workbook and the tableau public [url](https://public.tableau.com/views/artauctionsanalysis/Avgtotalsalebylocation?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ## SLIDES
-In the following link you can find the [slides]('https://slides.com/gloriaixiii/fp_elevator_pitch/fullscreen')
+In the following link you can find the [slides](https://slides.com/gloriaixiii/fp_elevator_pitch/fullscreen)
 
 ## SUMMARY
 - It is possible to get the data from the christies website but it is not easy to navigate through it. 
